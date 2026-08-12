@@ -17,6 +17,15 @@ Press the key bound to **Unlock View (Stop Padlock)** (default: **Num Lock**) to
   <img src="https://github.com/user-attachments/assets/625ad9db-a035-4b7c-a97f-9af0cf92d44c" alt="Key Binding" width="888">
 </p>
 
+## In-Game Settings
+
+You can select in DCS SPECIAL Settings if visor is still visible when disabled or not (default):
+<img width="512" height="123" alt="image" src="https://github.com/user-attachments/assets/13a8ec94-58cb-4841-9d5f-8be594ba3fc9" />
+
+<img width="2551" height="1432" alt="Zrzut ekranu 2026-08-13 011854" src="https://github.com/user-attachments/assets/2db4046b-4977-4e1f-bf5a-934928531012" />
+
+
+
 ## Installation
 
 1. Download the latest release from:
